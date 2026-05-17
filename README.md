@@ -1,4 +1,4 @@
-[Enregistrement d'écran_20260517_204738.webm](https://github.com/user-attachments/assets/2f6054de-b602-487f-9175-a0473b75a1ed)# BadUSB History Exfiltration PoC
+# BadUSB History Exfiltration PoC
 
 A proof-of-concept educational BadUSB payload designed for the ATtiny85 targeting Linux environments. This project demonstrates how an unprivileged physical USB insertion can lead to rapid data exfiltration, and provides actionable multi-layered defense mechanisms.
 
